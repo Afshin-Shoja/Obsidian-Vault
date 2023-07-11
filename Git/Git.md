@@ -1,5 +1,5 @@
 ### list
 
-[[Repository]]
+[[Basic command]]
 [[clone add init]]
 
