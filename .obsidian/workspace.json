@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Markdown/Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Markdown/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md"
+                "file": "Markdown/Markdown.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Markdown/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,21 +149,21 @@
   },
   "active": "bfed6e8605301f44",
   "lastOpenFiles": [
+    "Markdown/Basic.md",
+    "Markdown/Markdown.md",
     "README.md",
+    "JavaScript/JavaScript.md",
     "Git/Git.md",
     "Git/Basic command.md",
-    "javascript/index.md",
-    "MarkDown/Markdown.md",
-    "MarkDown/Markdown Basic.md",
     "Img/git-track-stage-commit-mekaeil.jpg",
     "Git/clone add init.md",
     "git-track-stage-commit-mekaeil.jpg",
     "Img",
     "New folder",
-    "MarkDown",
+    "Markdown",
     "Git",
     "javascript/index.html",
-    "javascript",
+    "JavaScript",
     "Obsidian"
   ]
 }
