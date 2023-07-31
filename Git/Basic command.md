@@ -41,6 +41,7 @@ git add .
 
 git status
 
+
 ```bash
 git status
 ```
@@ -68,3 +69,21 @@ git tag -a <TAG_NAME> -m <MESSAGE>
 ```
 
 ---
+
+.gitignore
+
+---
+
+```bash
+git push [-u] [<REPOSITORY>] [<BRANCH>]
+```
+
+---
+
+```bash
+git pull [<REPOSITORY>] [<BRANCH>]
+```
+
+---
+![[git-track-stage-commit-mekaeil.jpg]]
+
