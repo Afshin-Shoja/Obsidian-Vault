@@ -197,12 +197,24 @@ for use table (GitHub)
 
 ```markdown
 | col1 | col 2|
-|-----  | ---- |
-| name | age |
+|:-----:  | ---- |
+| name: | :age: |
 | test | 20 |
 ```
 
 <hr>
+## Checklist
+
+- [ ] test
+- [ ] text
+```markdown
+- [ ] unchecked
+- [x] checked
+```
+
+<hr>
+
+
 
 
 
