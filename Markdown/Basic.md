@@ -1,7 +1,7 @@
 [<< Back](./Markdown.md)
 
 <hr>
-## normal text
+##normal text
 
 in md two space at the end of the line means :
 
@@ -10,7 +10,7 @@ in md two space at the end of the line means :
 ```
 
 <hr>
-## Heading
+##Heading
 
 (h1 to h6) => (# to #######)
 
@@ -24,7 +24,7 @@ in md two space at the end of the line means :
 
 <hr>
 
-## bold
+##bold
 
 to **bold** text surround it with two asterisk ( \* ) or double underscore ( \_ \_ )
 
@@ -34,7 +34,7 @@ to **bold** text surround it with two asterisk ( \* ) or double underscore ( \_ 
 ```
 
 <hr>
-## italics
+##italics
 
 to _italics_ text surround it with one asterisk ( \* ) or one underscore ( \_ )
 
