@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "0fab35fa1e1e2e1b",
@@ -147,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "222afc225a71b1de",
+  "active": "bfed6e8605301f44",
   "lastOpenFiles": [
     "Markdown/Markdown.md",
     "README.md",

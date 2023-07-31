@@ -1,7 +1,7 @@
 [<< Back](./Markdown.md)
 
 <hr>
-## normal text
+## Normal Text
 
 in md two space at the end of the line means :
 
@@ -43,6 +43,43 @@ _text_
 _text_
 ```
 
+for both **Bold** and *italics* use three asterisk.
+```markdown
+***text***
+```
+
+
 <hr>
 
-##
+## Crossed OFF
+
+for Crossed ~~off~~ use:
+```markdown
+~~text~~
+```
+
+<hr>
+
+## Highlight
+
+for use ==highlight== :
+
+```markdown
+==text==
+```
+
+or use <mark>html</mark>  :
+```html
+<mark>text</mark>
+```
+
+<hr>
+
+## 'super & sup' script
+
+for <sup>superscript</sup>  :
+```html
+<sup>text</sup>
+```
+for <sub>subscript</sub>  :
+
