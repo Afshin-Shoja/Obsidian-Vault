@@ -2,7 +2,7 @@
 
 Hi, these are my personal notes for educational purposes.
 
-[Git>>](./Git/Git)
+[Git>>](./Git/Git.md)
 
 [[index | JavaScript]]
 
