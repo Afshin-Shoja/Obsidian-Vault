@@ -4,8 +4,9 @@
 ## normal text
 
 in md two space at the end of the line means :
+
 ```html
-<br>
+<br />
 ```
 
 <hr>
@@ -15,22 +16,31 @@ in md two space at the end of the line means :
 
 ```markdown
 # Heading h1
+
 ## Heading h2
 ```
 
 # Heading h1
 
-## Heading h2
-
 <hr>
 
 ## bold
 
-to **bold** text surround it with two asterisk ( \* ) or double underscore ( \_ \_ ) 
+to **bold** text surround it with two asterisk ( \* ) or double underscore ( \_ \_ )
 
 ```markdown
 **text**
 **text**
+```
+
+<hr>
+## italics
+
+to _italics_ text surround it with one asterisk ( \* ) or one underscore ( \_ )
+
+```markdown
+_text_
+_text_
 ```
 
 <hr>
