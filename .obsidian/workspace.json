@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Basic.md",
+                "file": "JavaScript/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown/Basic.md",
+                "file": "JavaScript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown/Basic.md"
+                "file": "JavaScript/JavaScript.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Basic.md",
+                "file": "JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +150,14 @@
   },
   "active": "bfed6e8605301f44",
   "lastOpenFiles": [
-    "(image.md",
     "Markdown/Basic.md",
-    "(i).md",
-    "Markdown/Markdown.md",
+    "JavaScript/JavaScript.md",
     "README.md",
+    "Markdown/Markdown.md",
+    "(image.md",
+    "(i).md",
     "Markdown",
     "New folder",
-    "JavaScript/JavaScript.md",
     "Git/Git.md",
     "Git/Basic command.md",
     "Img/git-track-stage-commit-mekaeil.jpg",
