@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d952c8c4fe117351",
+        "id": "cc85c280d656e9d7",
         "type": "tabs",
         "children": [
           {
-            "id": "bfed6e8605301f44",
+            "id": "e39d70537fd9b9d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "SQL/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b1729850cfb1e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "0fab35fa1e1e2e1b",
@@ -86,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "SQL/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/JavaScript.md"
+                "file": "SQL/SQL.md"
               }
             }
           },
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScript.md",
+                "file": "SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfed6e8605301f44",
+  "active": "e39d70537fd9b9d3",
   "lastOpenFiles": [
-    "Markdown/Basic.md",
-    "JavaScript/JavaScript.md",
     "README.md",
     "Markdown/Markdown.md",
+    "SQL/SQL.md",
+    "Untitled",
+    "SQL",
+    "JavaScript/JavaScript.md",
+    "Markdown/Basic.md",
     "(image.md",
     "(i).md",
     "Markdown",

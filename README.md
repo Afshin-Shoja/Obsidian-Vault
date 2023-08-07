@@ -6,4 +6,8 @@ Hi, these are my personal notes for educational purposes.
 
 [Markdown>>](./Markdown/Markdown.md)
 
+[SQL>>](./SQL/SQL.md)
+
+
+
 [JavaScript>>](./JavaScript/JavaScript.md)
