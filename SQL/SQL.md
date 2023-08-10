@@ -1,3 +1,4 @@
+
 [<< Home](../README.md)
 ### Structure Query Language
 ***
@@ -11,7 +12,9 @@ for select database to work:
 USE databasename;
 ```
 
-
+```sql
+SELECT * FROM tablename
+```
 
  
  
