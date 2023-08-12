@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e39d70537fd9b9d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown/Markdown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9b1729850cfb1e34",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,9 +149,9 @@
   },
   "active": "9b1729850cfb1e34",
   "lastOpenFiles": [
-    "Markdown/Basic.md",
     "Markdown/Markdown.md",
     "SQL/TSQl.md",
+    "Markdown/Basic.md",
     "SQL/SQL.md",
     "README.md",
     "Untitled",
