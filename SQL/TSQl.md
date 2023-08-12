@@ -94,25 +94,60 @@ stands for Transact Structured Query Language. It is an extension of SQL functio
 ---
 ### 16) Mention what are the T String functions available in TSQL?
 
-
+- Left
+- Right
+- Ltrim
+- Rtrim
+- Substring
+- Replace
+- Stuff
+---
 ### 17) Mention what is the syntax used for partition in TSQL?
 
 
+```sql
+[ database_name. ] $PARTITION.partition_function_name(expression)
+```
+
+---
 ### 18) Mention what is the syntax for using SQL_Variant_Property?
 
+```sql
+SQL_Variant_Property (expression, property)
+```
 
+---
 ### 19) Mention what is OFFSET-FETCH filter in tsql?
 
+<div dir="rtl">در tsql فیلتر OFFSET-FETCH شبیه TOP اما با یک عنصر اضافی طراحی شده است. این کمک می کند تا قبل از تعیین تعداد ردیف هایی که می خواهید فیلتر کنید، تعیین کنید چند ردیف را می خواهید رد کنید.</div>
 
+---
 ### 21) Mention what is Sp_pkeys?
 
+<div dir="rtl">Sp_pkeys بخشی از Catalog Stored Procedures است و اطلاعات کلید اولیه را برای یک جدول در پایگاه داده فعلی برمی گرداند. Sytax برای Sp_pkeys است</div>
 
+---
 ### 22) Mention how to do backup entire database?
 
+<div dir="rtl">برای پشتیبان گیری از کل پایگاه داده، از نحو زیر استفاده کنید.</div>
 
+```sql
+BACKUP DATABASE { database_name }
+
+TO backup_device [ ,...n ]
+
+[ MIRROR TO clause ]
+
+[ WITH { DIFFERENTIAL | [ ,...n ] } ];
+```
+
+---
 ### 23) Mention what are the limitations of IDENTITY column?
 
+<div dir="rtl">محدودیت های ستون IDENTITY این است که مقادیر ستون را نمی توان پس از تولید به روز کرد. همچنین، ممکن است نیاز باشد که این ستون را به عنوان یک کلید اولیه مشخص کنید، به این ترتیب، امکان تکرار مقادیر در یک جدول وجود دارد. ویژگی Identity فقط برای ستون مبتنی بر عدد صحیح قابل اجرا است.</div>
 
+---
 ### 24) Mention what is the use of SET statement in TSQL?
 
+<div dir="rtl">در TSQL، دستور SET به شما اجازه می دهد تا مدیریت جلسه جاری اطلاعات خاص مانند: زبان سیستم، فرمت تاریخ، زمان قفل، تعداد ردیف و غیره را تغییر دهید. این سوالات مصاحبه همچنین به viva (شفاهی) شما کمک می کند</div>
 
