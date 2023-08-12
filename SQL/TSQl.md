@@ -82,6 +82,8 @@ stands for Transact Structured Query Language. It is an extension of SQL functio
 ### 15) Mention what are the Join Types in TSQL?
 
 <div dir="rtl">انواع Join در TSQL عبارتند از:</div>
+
+
 - Inner join
 - Outer join
 - Left outer join
@@ -91,6 +93,8 @@ stands for Transact Structured Query Language. It is an extension of SQL functio
 - Full outer join
 - Full outer joins with Exclusions
 - Cross join
+
+
 ---
 ### 16) Mention what are the T String functions available in TSQL?
 
