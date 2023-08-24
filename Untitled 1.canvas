@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"README.md","id":"6eea5be50f9ca66d","x":-200,"y":-160,"width":400,"height":400},
+		{"type":"file","file":"Git/Git.md","id":"d0d6ccbd5fd0fa9b","x":500,"y":520,"width":600,"height":440},
+		{"type":"file","file":"Git/Basic command.md","id":"3cb4987e1c61c1b3","x":1100,"y":1320,"width":920,"height":720}
+	],
+	"edges":[
+		{"id":"7e4e2ffa8766da6f","fromNode":"6eea5be50f9ca66d","fromSide":"bottom","toNode":"d0d6ccbd5fd0fa9b","toSide":"top","label":"test"},
+		{"id":"2bbd5d527140fe7b","fromNode":"d0d6ccbd5fd0fa9b","fromSide":"bottom","toNode":"3cb4987e1c61c1b3","toSide":"top"}
+	]
+}
